@@ -1,0 +1,32 @@
+Java Developer
+We are looking for a Java Backend Developer Intern who is passionate about web development and eager to work on real-world software applications. The ideal candidate should have a strong understanding of Java, JSP, Servlets, and MySQL, along with basic frontend skills.
+
+🔧 Responsibilities:
+Develop and maintain backend components using Java, JSP, and Servlets
+Design and implement database structures using MySQL
+Build dynamic web applications following MVC architecture
+Integrate frontend components (HTML, CSS, JavaScript, AJAX) with backend logic
+Work on user authentication systems including login and OTP verification
+Perform CRUD operations and optimize application performance
+Debug, test, and improve existing codebase
+Use Git and GitHub for version control
+
+🎯 Required Skills:
+Java (Core + OOPs concepts)
+JSP & Servlets
+MySQL & JDBC
+HTML, CSS, JavaScript, AJAX
+Basic understanding of MVC architecture
+Problem-solving and debugging skills
+⭐ Preferred Skills:
+Experience with web applications
+Knowledge of SMTP/email integration (OTP systems)
+Familiarity with Apache Tomcat server
+
+
+self description
+I am a dedicated Computer Science Engineering student currently in my 3rd year, with strong interest in Java-based backend development and full-stack web applications. I have hands-on experience in building projects using Java, JSP, Servlets, MySQL, and AJAX, following MVC architecture.
+
+I enjoy solving real-world problems through clean and efficient code and continuously improving my technical skills. My key projects include a secure User Authentication System with OTP verification and a School Leave Management System, both of which strengthened my understanding of web development and database integration.
+
+I am a quick learner, adaptable to new technologies, and passionate about software development and emerging fields like AI. I am currently seeking an internship opportunity to apply my skills in a professional environment and contribute to real-world software solutions.

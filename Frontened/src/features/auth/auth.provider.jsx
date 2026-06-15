@@ -1,0 +1,23 @@
+import { useState } from "react";
+import { AuthContext } from "./auth.context";
+
+export const AuthProvider = ({ children }) => {
+  const [user, setUser] = useState(null);
+  const [loading, setLoading] = useState(false);
+  const [loadingMessage, setLoadingMessage] = useState("");
+
+  return (
+    <AuthContext.Provider
+      value={{
+        user,
+        setUser,
+        loading,
+        setLoading,
+        loadingMessage,
+        setLoadingMessage,
+      }}
+    >
+      {children}
+    </AuthContext.Provider>
+  );
+};

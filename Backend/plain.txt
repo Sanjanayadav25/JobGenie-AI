@@ -1,0 +1,1 @@
+mongodb+srv://Sanjana:sanjanay@jobgenieal.w38tnik.mongodb.net/jobgenie-ai
